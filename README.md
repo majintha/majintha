@@ -14,9 +14,9 @@ Skills: HTML / CSS / Javascript / SQL Angular / Node.js /  C / C++/ Java / Pytho
 - 📫 How to reach me: majintha.c@gmail.com 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majintha)](https://github.com/anuraghazra/github-readme-stats)
-![udith97](https://github-readme-stats.vercel.app/api?username=majintha&theme=algolia&line_height=24&show_icons=true&hide=stars&include_all_commits=true)
-![udith97](https://github-readme-stats.vercel.app/api/top-langs/?username=majintha&layout=compact&langs_count=6&theme=algolia)
+
+![majintha](https://github-readme-stats.vercel.app/api?username=majintha&theme=algolia&line_height=24&show_icons=true&hide=stars&include_all_commits=true)
+![majintha](https://github-readme-stats.vercel.app/api/top-langs/?username=majintha&layout=compact&langs_count=6&theme=algolia)
 
 ## Examples of Work
 <img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" >
