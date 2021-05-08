@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/majintha/majintha-crishan/blob/main/index_jonias.jpg)
+![Design and Development](https://github.com/majintha/majintha/blob/master/index_jonias.jpg)
 
 ### Hi there 👋, my name is majintha
 #### Design and Development
@@ -17,7 +17,7 @@ Skills: HTML / CSS / Javascript / SQL Angular / Node.js /  C / C++/ Java / Pytho
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majintha)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Examples of Work
-<img src="https://github.com/majintha/majintha-crishan/blob/main/ezgif.com-gif-maker.gif" width="512" >
+<img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" >
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/majintha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/majintha-crishan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/majintha.dimithri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__maji_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CCrishan) 
